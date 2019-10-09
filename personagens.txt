@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Magno Bento
 Ibiapino
+=======
+Magno Ibiapino Bento
+Eu 2
+>>>>>>> magno
